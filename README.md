@@ -1,2 +1,3 @@
-# python_tutorial
-python tutorial UTA 2018
+# Python tutorials for Astrophysics
+
+This material is intended for teaching various concepts and methods used in astrophysics.
