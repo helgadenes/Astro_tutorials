@@ -3,3 +3,7 @@
 This material is intended for teaching various concepts and methods used in astrophysics.
 
 Disclaimer: Some of these tutorials are getting old and may not work fully. 
+
+## Additional resources:
+My Astropysics and Cosmology course lecture slides that I have tought between 2021 and 2025:
+https://github.com/helgadenes/Astrophysics_yachay
